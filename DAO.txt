@@ -1,0 +1,60 @@
+Projeto de DAO: GreenFuture DAO
+Nome da DAO
+GreenFuture DAO
+
+Declaração da Missão da DAO
+A missão da GreenFuture DAO é promover a sustentabilidade ambiental e a preservação dos recursos naturais através de iniciativas descentralizadas e comunitárias. Utilizando a tecnologia blockchain, nosso objetivo é financiar projetos inovadores e impactantes que contribuam para um futuro mais verde e sustentável para todos.
+
+Entrega da DAO
+A GreenFuture DAO se dedicará a:
+
+Financiar projetos de sustentabilidade: Investir em projetos e startups que desenvolvam tecnologias e soluções sustentáveis.
+Educar e conscientizar: Oferecer programas educacionais e campanhas de conscientização sobre práticas ambientais responsáveis.
+Criar uma comunidade engajada: Construir uma comunidade global de indivíduos e organizações comprometidos com a sustentabilidade.
+Monitoramento e transparência: Utilizar a tecnologia blockchain para garantir transparência e responsabilidade em todos os projetos financiados pela DAO.
+Estrutura e Ações Teóricas
+Criação de um Servidor Discord
+Como fazer:
+
+Configurar um servidor no Discord para a GreenFuture DAO.
+Criar canais dedicados a discussões gerais, anúncios importantes, sugestões de projetos, educação ambiental, entre outros.
+Estabelecer moderadores para garantir um ambiente seguro e produtivo.
+Realizar eventos e reuniões periódicas para engajar a comunidade.
+Criação de uma Conta no Twitter
+Como fazer:
+
+Criar uma conta no Twitter para a GreenFuture DAO.
+Utilizar a plataforma para compartilhar atualizações, notícias, e informações relevantes sobre projetos e eventos.
+Interagir com a comunidade e ampliar a rede de contatos com outras organizações e indivíduos interessados na sustentabilidade.
+Convite para Participação
+Como fazer:
+
+Utilizar as redes sociais, o site oficial da GreenFuture DAO e outras plataformas para convidar pessoas a se juntarem à comunidade.
+Desenvolver uma campanha de marketing para aumentar a visibilidade da DAO.
+Incentivar membros existentes a convidarem novos participantes.
+Lançamento de um Token de Governança
+Como fazer:
+
+Desenvolver um token de governança na blockchain (por exemplo, Ethereum) que permitirá aos membros da DAO votar em decisões importantes.
+Distribuir tokens para membros ativos da comunidade e para financiadores iniciais.
+Estabelecer regras claras sobre como o token de governança será usado para tomar decisões dentro da DAO.
+Mecanismo de Financiamento
+Como fazer:
+
+Implementar um sistema de captação de recursos via crowdfunding, onde indivíduos podem contribuir com criptomoedas.
+Estabelecer parcerias com empresas e instituições que compartilhem da missão da GreenFuture DAO e queiram apoiar financeiramente.
+Criar incentivos para doadores, como reconhecimento público, participação em eventos exclusivos, e a possibilidade de influenciar diretamente os projetos financiados.
+Configuração do Snapchat para Registrar Contribuições
+Como fazer:
+
+Criar uma conta oficial da GreenFuture DAO no Snapchat.
+Usar a plataforma para registrar e compartilhar atualizações visuais sobre as contribuições recebidas e os projetos financiados.
+Postar histórias e vídeos mostrando o impacto das contribuições e os progressos dos projetos apoiados pela DAO.
+Incentivar os membros da comunidade a compartilhar suas próprias histórias e contribuições usando uma hashtag dedicada.
+Criação de uma LLC
+Como fazer:
+
+Registrar uma Limited Liability Company (LLC) para a GreenFuture DAO em uma jurisdição que ofereça benefícios para DAOs, como Delaware, Wyoming, ou outro estado favorável.
+Contratar um serviço legal especializado para auxiliar no processo de registro e garantir que a DAO esteja em conformidade com as leis e regulamentos locais.
+Estabelecer um acordo operacional que defina a estrutura de governança, os direitos e responsabilidades dos membros, e os procedimentos para a tomada de decisões.
+Com essas ações teóricas, a GreenFuture DAO estaria bem posicionada para atrair uma comunidade engajada e financiar projetos que contribuam para um futuro sustentável. A transparência, a participação comunitária e o uso de tecnologia de ponta seriam os pilares desse projeto.
